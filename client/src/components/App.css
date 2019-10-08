@@ -1,0 +1,15 @@
+.main {
+  margin-top: 60px;
+}
+
+.container {
+  margin-top: 15px;
+}
+
+.home-link, .home-link:hover {
+  color: black;
+}
+
+p {
+  font-size: 16px;
+}
